@@ -46,7 +46,7 @@ body {
     }
 
 селектор class. класс используется, когда нужно задать разные стили для одного тега:
-    p.first {
+    p.first / .first {
         color: white;
     }
     ... <p class="first>Blabla</p>
