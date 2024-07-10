@@ -35,6 +35,7 @@ a:hover {
 
 img {
     transform: scale(1);
+    transition: 2s all;
 }
 
 img:hover {
