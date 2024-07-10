@@ -23,3 +23,12 @@ h3 {
 #h4id {
     color: pink;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: overline;
+    color: green;
+}
