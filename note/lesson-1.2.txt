@@ -10,3 +10,23 @@ body {
 через <link>
 прописать через <style>
 отдельно использовать style для элемента
+
+способы подключения имеют приоритет. 
+самый приоритетный это указать в самом элементе.
+пример: 
+<body style="background-color: teal">
+
+далее по приоритету идет указание в style head. 
+пример: 
+<head>
+        <meta charset="utf-8">
+        <title>My first page</title>
+        <style type="text/css">
+            body {
+                background-color: Teal;
+            }
+        </style>
+</head>
+
+через ссылку. пример:
+<link rel="stylesheet" href="style.css">
