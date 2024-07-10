@@ -17,4 +17,5 @@ h3 {
     background-image: url(https://masterpiecer-images.s3.yandex.net/559c0b5f523111ee9efd429f31467427:upscaled);
     padding: 15px;
     border: 5px solid black;
+    border-radius: 30px;
 }
