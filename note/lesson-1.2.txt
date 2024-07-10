@@ -49,6 +49,7 @@ body {
     p.first {
         color: white;
     }
+    ... <p class="first>Blabla</p>
 
 
 селектор id
