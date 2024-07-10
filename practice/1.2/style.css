@@ -32,3 +32,11 @@ a:hover {
     text-decoration: overline;
     color: green;
 }
+
+img {
+    transform: scale(1);
+}
+
+img:hover {
+    transform: scale(1.2);
+}
